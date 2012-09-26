@@ -1,0 +1,1 @@
+This is my first GIT project. A simple history of my BASH.
